@@ -1,3 +1,4 @@
+|FinallY|[![Build Status](https://dev.azure.com/rahultipole/javaaakuthpn/_apis/build/status/RaHuZzZ369.pipelines-java?branchName=master)](https://dev.azure.com/rahultipole/javaaakuthpn/_build/latest?definitionId=11&branchName=master)|
 
 # Contributing
 
